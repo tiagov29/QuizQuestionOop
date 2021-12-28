@@ -1,1 +1,3 @@
-console.log("testing app");
+import { questions } from "./data/questions.js";
+
+console.log(questions);
